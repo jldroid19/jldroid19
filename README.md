@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jldroid19
-- 👀 I’m interested in Python, SQL, Linux, LXD, Pentesting
-- 🌱 I’m currently learning Ethical Hacking
+- 👀 I’m interested in Python, SQL, Cloud stuff, Scripting, Automation
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything cool!
 - 📫 How to reach me -/_O_/-
 

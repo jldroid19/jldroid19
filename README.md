@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jake Lafrance
+- 👋 Hi, I’m Jake
 - I’m interested in Python, SQL, Docker, Cloud stuff, Scripting, Automation.
 - I’m looking to collaborate on anything new and exciting!
 
